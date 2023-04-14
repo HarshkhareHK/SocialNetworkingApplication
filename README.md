@@ -1,2 +1,2 @@
 # SocialNetworkingApplication
-uncomplete project 
+incomplete project 
